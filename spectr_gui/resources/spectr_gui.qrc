@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/flash.svg</file>
+        <file>icons/play.svg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>ledGray.png</file>
+        <file>ledGreen.png</file>
+        <file>ledRed.png</file>
+        <file>ledYellow.png</file>
+    </qresource>
+</RCC>
